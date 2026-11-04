@@ -1,4 +1,4 @@
-# SQL Query Exercise 9
+# SQL Query - Update Customer and Property Data
 
 **CIS 310 | SQL**
 
